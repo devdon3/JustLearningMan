@@ -1,0 +1,38 @@
+html{
+    height: 100%;
+}
+body{
+    background-image: linear-gradient(to bottom left,white,pink,purple,red);
+    background-repeat: no-repeat;
+}
+.card{
+    
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+    margin-top:150px;
+    margin-left: 40%;
+    padding-left: 50px;
+    padding-right: 50px; 
+    float: center;
+    width:200px;
+    box-shadow: 10px 10px 8px #8888885e;
+}
+.Size{
+    font-size: x-large;
+}
+.input{
+    margin-top: 10px;
+    border:2px;
+    border-style: solid;
+    height:25px;
+    border-color: rgb(105, 105, 255);
+    border-radius:10px
+}
+.button{
+    background-color: rgb(133, 133, 255);
+    border:none;
+    color: white;
+    height:40px;
+    width:70px;
+    font-size: 20px;
+}
